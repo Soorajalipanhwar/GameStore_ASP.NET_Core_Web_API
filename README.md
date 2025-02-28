@@ -16,4 +16,4 @@ dotnet add package Microsoft.EntityFrameworkCore
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.Design
 ```
-![My Image](https://soorajalipanhwar.github.io/My-Website/assets/GameStoreAPI.jpg)
+![My Image](https://soorajalipanhwar.github.io/My-Website/assets/GameStoreAPI.png)
