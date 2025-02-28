@@ -1,2 +1,12 @@
 # GameStore_ASP.NET_Core_Web_API
 This is the source code of the C# Minimal Web API created using ASP.NET Core, EF and Dockerized SQl Server
+
+I have implimented many standards of development in this project including the use of MVC architechture, The Repository pattern, Code first approach, asynchronous programming, containerization etc.
+The project is a web API that is used as a backend for a Game Catelog, the UI is created using React,Bootstrap and MUI and is availabel at [https://google.com](some link).
+Requirements:
+```bash
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+```
+![My Image](https://soorajalipanhwar.github.io/My-Website/assets/4.jpg)
