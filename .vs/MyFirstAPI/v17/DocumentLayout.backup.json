@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|c:\\users\\sooraj\\source\\dotnet\\myfirstapi\\gamestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|c:\\users\\sooraj\\source\\dotnet\\myfirstapi\\gamestore.api\\gamestore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\gamestore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|c:\\users\\sooraj\\source\\dotnet\\myfirstapi\\gamestore.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|c:\\users\\sooraj\\source\\dotnet\\myfirstapi\\gamestore.api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4E4E2-63ED-4CDA-A80E-B425B4618176}|GameStore.Api\\GameStore.Api.csproj|solutionrelative:gamestore.api\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\Program.cs",
+              "RelativeToolTip": "GameStore.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:26:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameStore.Api",
+              "DocumentMoniker": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\GameStore.Api.csproj",
+              "RelativeDocumentMoniker": "GameStore.Api\\GameStore.Api.csproj",
+              "ToolTip": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\GameStore.Api.csproj",
+              "RelativeToolTip": "GameStore.Api\\GameStore.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T22:24:21.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\Entities\\Game.cs",
+              "RelativeToolTip": "GameStore.Api\\Entities\\Game.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:11:03.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameStore.Api\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Sooraj\\source\\DotNET\\MyFirstAPI\\GameStore.Api\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameStore.Api\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:38:24.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
